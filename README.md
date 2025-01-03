@@ -8,4 +8,8 @@
   <li>Identify the most common ratings for movies and TV shows.</li>
   <li>List and analyze content based on release years, countries, and durations.</li>
   <li>Explore and categorize content based on specific criteria and keywords.</li></ul>
+<h2> Dataset</h2>
+<>The data for this project is sourced from the Kaggle dataset:
+
+<ul><li>Dataset Link: ![Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)</li></ul>
 
