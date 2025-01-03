@@ -35,4 +35,28 @@ CREATE TABLE netflix (
     description    VARCHAR(550)
 );
 
-## Business Problems and Solutions
+<h2>Business Problems and Solutions</h2>
+<h3>1. Count the Number of Movies vs TV Shows</h3>
+```sql
+CREATE TABLE netflix (
+    show_id        VARCHAR(5),
+    type           VARCHAR(10),
+    title          VARCHAR(250),
+    director       VARCHAR(550),
+    casts          VARCHAR(1050),
+    country        VARCHAR(550),
+    date_added     VARCHAR(55),
+    release_year   INT,
+    rating         VARCHAR(15),
+    duration       VARCHAR(15),
+    listed_in      VARCHAR(250),
+    description    VARCHAR(550)
+);
+```sql
+SELECT 
+    type,
+    COUNT(*)
+FROM netflix
+GROUP BY 1;
+);
+
