@@ -13,6 +13,7 @@ The data for this project is sourced from the Kaggle dataset:
 <ul><li>Dataset Link : <a href = 'https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download' > Movies Dataset</a></li></ul>
 <h2> Schemas </h2>
 ```sql
+
 CREATE TABLE netflix
 (
 	show_id	VARCHAR(5),
@@ -28,4 +29,5 @@ CREATE TABLE netflix
 	listed_in	VARCHAR(250),
 	description VARCHAR(550)
 );
+
 ```
