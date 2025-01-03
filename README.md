@@ -232,4 +232,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 <h3>Stay Updated and Join the Community</h3>
 <p>For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:</p>
-<ul><li> LinkedIn:</li><a href='www.linkedin.com/in/nitesh-kumar-singh1'> </a>
+<ul><li> LinkedIn: <a href='www.linkedin.com/in/nitesh-kumar-singh1'> </a></li>
+<li>Portfolio: <a href = 'https://www.datascienceportfol.io/niteshkr9053'></a></li>
+</ul>
+
