@@ -35,8 +35,6 @@ CREATE TABLE netflix (
     description    VARCHAR(550)
 );
 
-
-
 <h2>Business Problems and Solutions</h2>
 <h3>1. Count the Number of Movies vs TV Shows</h3>
 ```sql
@@ -46,4 +44,6 @@ SELECT
 FROM netflix
 GROUP BY 1;
 );
+<h3>Objective: </h3>Determine the distribution of content types on Netflix.
+
 
