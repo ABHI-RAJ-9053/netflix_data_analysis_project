@@ -11,5 +11,5 @@
 <h2> Dataset</h2>
 The data for this project is sourced from the Kaggle dataset:
 
-<ul><li>Dataset Link:</li></ul> ![Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+<ul><li>Dataset Link:</li></ul>!<a href = 'https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download' > Movies Dataset</a>
 
