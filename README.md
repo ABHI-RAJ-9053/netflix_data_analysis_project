@@ -10,6 +10,5 @@
   <li>Explore and categorize content based on specific criteria and keywords.</li></ul>
 <h2> Dataset</h2>
 The data for this project is sourced from the Kaggle dataset:
-
-<ul><li>Dataset Link: <a href = 'https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download' > Movies Dataset</a></li></ul>
+<ul><li>Dataset Link : <a href = 'https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download' > Movies Dataset</a></li></ul>
 
